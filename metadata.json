@@ -1,0 +1,6 @@
+{
+  "name": "College Library Management System",
+  "description": "Object-oriented academic library circulation, reservation queue, overdue fine calculation, and catalog administration platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
